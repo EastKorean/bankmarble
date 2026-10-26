@@ -1,0 +1,8 @@
+{
+  "name": "bank-marble",
+  "version": "1.0.0",
+  "description": "뱅크마블 - 초등 금융교육 실시간 멀티플레이 보드게임 (추가 설치 필요 없음)",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=18" }
+}
